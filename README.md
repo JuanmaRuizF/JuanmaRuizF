@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![JuanmaRuizF](https://github-readme-stats.vercel.app/api?username=JuanmaRuizF)](https://github.com/JuanmaRuizF/github-readme-stats)
+
+<p align="center">
+    ![JuanmaRuizF](https://github-readme-stats.vercel.app/api?username=JuanmaRuizF&show_icons=true&theme=radical)
+</p>
 <!--
 **JuanmaRuizF/JuanmaRuizF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
