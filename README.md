@@ -41,10 +41,10 @@ My name is Juan Manuel, but people usually call me Juanma or Juan. I am a comput
 
 <div align="center">
 <h3>Check out some of my projects:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanmaRuizF&repo=NY-Traffic-Prediction" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanmaRuizF&repo=classic-fun-games" />
 </a>
   <a>
@@ -56,7 +56,7 @@ My name is Juan Manuel, but people usually call me Juanma or Juan. I am a comput
 
 <div align="center">
 <h3>My Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" >
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanmaRuizF&show_icons=true&theme=radical" >
 
 
 </div>
