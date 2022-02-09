@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Juan Manuel 👨‍💻
+### Hi there 👋 I'm Juanma 👨‍💻
 
 My name is Juan Manuel, but people usually call me Juanma or Juan. I am a computer science graduate that's always looking forward to learning new technologies, concepts or topics! 
 
