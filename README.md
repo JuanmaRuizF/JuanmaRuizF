@@ -41,13 +41,13 @@ My name is Juan Manuel, but people usually call me Juanma or Juan. I am a comput
 
 <div align="center">
 <h3>Check out some of my projects:</h3>
-<a>
+<a href="https://github.com/JuanmaRuizF/NY-Traffic-Prediction">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanmaRuizF&repo=NY-Traffic-Prediction" />
 </a>
-<a>
+<a href="https://github.com/JuanmaRuizF/classic-fun-games">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanmaRuizF&repo=classic-fun-games" />
 </a>
-  <a>
+  <a href="https://github.com/JuanmaRuizF/Dulce-Capricho">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JuanmaRuizF&repo=Dulce-Capricho" />
 </a>
 </div>
